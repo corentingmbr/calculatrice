@@ -1,0 +1,9 @@
+# ninja log v5
+1	238	7228697458908312	CMakeFiles/calculatrice.dir/main.c.obj	3c7d8b03bc78c8bd
+241	544	7228697462059313	calculatrice.exe	b55ee33e6d8a846c
+8	374	7228718774697980	CMakeFiles/calculatrice.dir/main.c.obj	3c7d8b03bc78c8bd
+376	884	7228718779549737	calculatrice.exe	b55ee33e6d8a846c
+5	247	7228719092700478	CMakeFiles/calculatrice.dir/main.c.obj	3c7d8b03bc78c8bd
+249	605	7228719096109736	calculatrice.exe	b55ee33e6d8a846c
+8	382	7228726189518877	CMakeFiles/calculatrice.dir/main.c.obj	3c7d8b03bc78c8bd
+384	676	7228726192404501	calculatrice.exe	b55ee33e6d8a846c
